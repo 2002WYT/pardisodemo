@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSRC.a CMakeFiles/SRC.dir/t1.cpp.o
+/usr/bin/ranlib libSRC.a

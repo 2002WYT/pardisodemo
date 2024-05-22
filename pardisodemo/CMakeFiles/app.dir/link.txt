@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wall -O3 CMakeFiles/app.dir/01.cpp.o -o app   -L/opt/intel/oneapi/mkl/2024.1/lib  -L/opt/intel/oneapi/compiler/2024.1/lib  -Wl,-rpath,/opt/intel/oneapi/mkl/2024.1/lib:/opt/intel/oneapi/compiler/2024.1/lib -lSRC -lmkl_rt -liomp5 

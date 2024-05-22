@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wyt2002/pardisodemo/build",
+  "command": "/usr/bin/clang++  -I/home/wyt2002/pardisodemo/include -I/opt/intel/oneapi/mkl/2024.1/include  -g -Wall -O3 -g -o CMakeFiles/app.dir/01.cpp.o -c /home/wyt2002/pardisodemo/01.cpp",
+  "file": "/home/wyt2002/pardisodemo/01.cpp"
+},
+{
+  "directory": "/home/wyt2002/pardisodemo/build/src",
+  "command": "/usr/bin/clang++  -I/home/wyt2002/pardisodemo/src/../include -I/opt/intel/oneapi/mkl/latest/include  -g -Wall -O3 -g -o CMakeFiles/SRC.dir/t1.cpp.o -c /home/wyt2002/pardisodemo/src/t1.cpp",
+  "file": "/home/wyt2002/pardisodemo/src/t1.cpp"
+}
+]

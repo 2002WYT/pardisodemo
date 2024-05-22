@@ -1,0 +1,5 @@
+/home/wyt2002/pardisodemo/CMakeFiles/app.dir
+/home/wyt2002/pardisodemo/CMakeFiles/edit_cache.dir
+/home/wyt2002/pardisodemo/CMakeFiles/rebuild_cache.dir
+/home/wyt2002/pardisodemo/src/CMakeFiles/edit_cache.dir
+/home/wyt2002/pardisodemo/src/CMakeFiles/rebuild_cache.dir
